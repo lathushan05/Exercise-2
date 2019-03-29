@@ -1,0 +1,24 @@
+h1 {
+      text-align: center}
+      table, th,td{border-collapse:collapse;border: 1px solid black;
+      }
+  tr.d  td.a{
+        text-align: center;
+      }
+tr.c td.e{  text-align: center;}
+
+td.blue {background-color:  #6699ff}
+
+td.lightblue {background-color: #ccddff}
+
+ td.yellow {background-color:  #ffff80}
+
+tr.g, td.pu {background-color: #ff00ff}
+
+td.red {background-color: #ff5050}
+
+td.gr {background-color: #33ff33}
+
+td.y1 {background-color:  #e68a00}
+
+td.r1 {background-color:  #ff0000}
